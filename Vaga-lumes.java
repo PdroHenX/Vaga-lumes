@@ -4,7 +4,7 @@ import robocode.*;
 import java.awt.Color;
 import java.util.Random;
 
-public class 20comer70correr extends AdvancedRobot {
+public class FindTheLight extends AdvancedRobot {
 
     private Random random = new Random();
     private boolean movingForward;
